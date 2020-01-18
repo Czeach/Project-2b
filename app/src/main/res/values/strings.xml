@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project_2b</string>
+    <string name="fix_it">we FIX-IT</string>
+    <string name="date">Since 2017</string>
+    <string name="owner">JOHN DOE</string>
+    <string name="phone">+234 905 635 9284</string>
+    <string name="description">We are your plug for all household fixes</string>
+    <string name="location">Lagos, Nigeria</string>
+    <string name="opening">8:00am - 11:00pm</string>
+    <string name="moto">we always deliver. we FIX-IT</string>
+</resources>
